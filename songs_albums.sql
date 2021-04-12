@@ -24,7 +24,16 @@ CREATE TABLE Albums (
  * TODO: Insert at least 4 rows of data into the songs table. You can change up the albums as well. :)
  */
 
-INSERT INTO SON
+INSERT INTO SONGS
+    (Name)
+VALUES
+    ('Another Day'),
+    ('Song 2'),
+    ('Hotel California'),
+    ('California'),
+    ('The Dark Side of the Moon')
+
+
  
 INSERT INTO Albums
     (name, artist, year_published)
